@@ -1,0 +1,26 @@
+/* FONT */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* FIX NAVBAR TOGGLER */
+.navbar-toggler {
+  border: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* LOADER */
+.content {
+  display: none;
+}
+
+.loader-content {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
